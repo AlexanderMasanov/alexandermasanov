@@ -13,3 +13,6 @@ Databases: MySQL
 OC: Windows, Android
 
 Tools: DevTools, Postman, SoapUi, GIT, Charles Proxy, Fiddler, Android Studio, Figma, JMeter, PICT, Selenium IDE, Katalon Recorder
+
+###Tools
+![Postman](https://img.shields.io/badge/-Postman-ffa500?style=for-the-badge&logo=postman)
