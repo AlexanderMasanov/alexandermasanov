@@ -4,8 +4,12 @@
 
 Skills:
 
-+Test Management: TestRail, Confluence
-+Bug tracking systems: Jira, Mantis
-+Databases: MySQL
-+OS: Windows, Android
-+Tools: DevTools, Postman, SoapUi, GIT, Charles Proxy, Fiddler, Android Studio, Figma, JMeter, PICT, Selenium IDE, Katalon Recorder
+Test Management: TestRail, Confluence
+
+Bug tracking systems: Jira, Mantis
+
+Databases: MySQL
+
+OC: Windows, Android
+
+Tools: DevTools, Postman, SoapUi, GIT, Charles Proxy, Fiddler, Android Studio, Figma, JMeter, PICT, Selenium IDE, Katalon Recorder
