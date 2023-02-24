@@ -4,7 +4,7 @@
 
 В феврале 2023 года завершил профессиональную переподготовку в сфере тестирования и контроля качества программного обеспечения.
 Обучение осуществлялось в Томском государственном университете систем управления и радиоэлектронники.
-Ранее окончил данный университет в степени бакалавра по направлению информатики и вычеслительной техники.
+Ранее окончил данный университет в степени бакалавра по направлению информатики и вычислительной техники.
 
 Hard skills:
 
@@ -18,12 +18,12 @@ Hard skills:
 
 OC: Windows, Android
 
-Системы управления версиями: Git
+Системы управления версиями: Git(основы)
 
 Снифферы трафика: Charles Proxy, Fiddler
 
-API: SoapUi, REST\Postman\JSON
+API: SoapUi(запросы по WSDL), REST\Postman\JSON
 
-Tools: DevTools, Android Studio, Figma, JMeter, PICT, Selenium IDE, Katalon Recorder
+Tools: DevTools, Android Studio, Figma, JMeter(основы), PICT, Selenium IDE, Katalon Recorder
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandermasanov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
