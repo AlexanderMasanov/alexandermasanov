@@ -26,4 +26,12 @@ API: SoapUi(запросы по WSDL), REST\Postman\JSON
 
 Tools: DevTools, Android Studio, Figma, JMeter(основы), PICT, Selenium IDE, Katalon Recorder
 
+Soft skills:
+
+Повышенная ответственность и исполнительность, обучаемость, хорошие коммуникативные навыки, терпение, усидчивость
+
+Образование:
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandermasanov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
