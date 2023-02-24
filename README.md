@@ -31,7 +31,8 @@ Soft skills:
 Повышенная ответственность и исполнительность, обучаемость, хорошие коммуникативные навыки, терпение, усидчивость
 
 Образование:
-
+![D1](https://github.com/AlexanderMasanov/alexandermasanov/blob/main/IMG_20230223_134029.jpg)
+![D2](https://github.com/AlexanderMasanov/alexandermasanov/blob/main/IMG_20230223_133700.jpg)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandermasanov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
