@@ -1,26 +1,29 @@
 ![Header](https://github.com/AlexanderMasanov/alexandermasanov/blob/main/header.png)
 
-## Hello, I am a QA Engineer with proficiency in Functional Testing (manual) such as Web Application Testing
+## Привет, я QA Engineer \ Тестировщик ПО
 
-Skills:
+В феврале 2023 года завершил профессиональную переподготовку в сфере тестирования и контроля качества программного обеспечения.
+Обучение осуществлялось в Томском государственном университете систем управления и радиоэлектронники.
+Ранее окончил данный университет в степени бакалавра по направлению информатики и вычеслительной техники.
 
-Maintaining test documentation (test cases, checklists, bug reports)
+Hard skills:
 
-Test Management: TestRail, Confluence
+Ведение тестовой документации (тест-план, тест-кейсы, чек-листы, баг-репорты)
 
-Bug tracking systems: Jira, Mantis
+Управление тестированием: TestRail, Confluence, Azure Devops
 
-Databases: MySQL
+Системы отслеживания ошибок: Jira, Mantis, Azure DevOps
+
+Базы данных, СУБД: MySQL, SQL(простые Select и Join)
 
 OC: Windows, Android
 
-Tools: DevTools, Postman, SoapUi, GIT, Charles Proxy, Fiddler, Android Studio, Figma, JMeter, PICT, Selenium IDE, Katalon Recorder
+Системы управления версиями: Git
 
-##Tools
+Снифферы трафика: Charles Proxy, Fiddler
 
-![Postman](https://img.shields.io/badge/-Postman-42aaff?style=for-the-badge&logo=postman)
-![DevTools](https://img.shields.io/badge/-DevTools-42aaff?style=for-the-badge&logo=DevTools)
-![SoapUi](https://img.shields.io/badge/-SoapUi-42aaff?style=for-the-badge&logo=SoapUi)
-![MySQL](https://img.shields.io/badge/-MySQL-42aaff?style=for-the-badge&logo=mysql)
+API: SoapUi, REST\Postman\JSON
+
+Tools: DevTools, Android Studio, Figma, JMeter, PICT, Selenium IDE, Katalon Recorder
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandermasanov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
