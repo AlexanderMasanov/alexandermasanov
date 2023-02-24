@@ -17,3 +17,4 @@ Tools: DevTools, Postman, SoapUi, GIT, Charles Proxy, Fiddler, Android Studio, F
 ##Tools
 
 ![Postman](https://img.shields.io/badge/-Postman-42aaff?style=for-the-badge&logo=postman)
+![DevTools](https://img.shields.io/badge/-DevTools-42aaff?style=for-the-badge&logo=devtools)
