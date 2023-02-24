@@ -28,11 +28,23 @@ Tools: DevTools, Android Studio, Figma, JMeter(основы), PICT, Selenium IDE
 
 Soft skills:
 
-Повышенная ответственность и исполнительность, обучаемость, хорошие коммуникативные навыки, терпение, усидчивость
+Повышенная ответственность и исполнительность, обучаемость, хорошие коммуникативные навыки, терпение и усидчивость
+
+Уровень английского языка Elementary
 
 Образование:
 ![D1](https://github.com/AlexanderMasanov/alexandermasanov/blob/main/IMG_20230223_134029.jpg)
 ![D2](https://github.com/AlexanderMasanov/alexandermasanov/blob/main/IMG_20230223_133700.jpg)
+Так же постоянно черпаю новую информацию из различных бесплатных курсов, уроков и обучющих видео на ютуб :)
+
+Опыт работы:
+
+Accessor тестировщик в Yandex(ANCOR) 3 месяца
+Осуществлял тестирование продуктов Яндекса по тест-кейсам, при обнаружении дефектов заводил баг-репорты
+
+Портфолио:
+
+Мой выпускной проект по тестированию и контролю качества программного обеспечения
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandermasanov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
