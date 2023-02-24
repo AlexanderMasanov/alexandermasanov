@@ -50,6 +50,6 @@ Accessor тестировщик в Yandex(ANCOR) 3 месяца
 Портфолио:
 
 Мой выпускной проект по тестированию и контролю качества программного обеспечения
-https://github.com/AlexanderMasanov/alexandermasanov/blob/main/%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BE%D1%82%D1%87%D0%B5%D1%82.pdf
+https://github.com/AlexanderMasanov/alexandermasanov/blob/main/itogovy_otchet.pdf
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandermasanov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
