@@ -40,7 +40,6 @@ Tools: DevTools, Android Studio, Figma, JMeter(основы), PICT, Selenium IDE
 ![D1](https://github.com/AlexanderMasanov/alexandermasanov/blob/main/IMG_20230223_134029.jpg)
 ![D2](https://github.com/AlexanderMasanov/alexandermasanov/blob/main/IMG_20230223_133700.jpg)
 Так же постоянно черпаю новую информацию из различных бесплатных курсов, уроков и обучющих видео на ютуб :)
-![post](https://github.com/AlexanderMasanov/alexandermasanov/blob/main/postman.pdf)
 
 ## Опыт работы:
 
@@ -55,5 +54,8 @@ https://github.com/AlexanderMasanov/alexandermasanov/blob/main/itogovy_otchet.pd
 
 Тестовое задание по кейсам
 https://github.com/AlexanderMasanov/alexandermasanov/blob/main/test_case.pdf
+
+Postman
+https://github.com/AlexanderMasanov/alexandermasanov/blob/main/postman.pdf
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandermasanov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
