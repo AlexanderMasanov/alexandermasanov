@@ -40,6 +40,7 @@ Tools: DevTools, Android Studio, Figma, JMeter(основы), PICT, Selenium IDE
 ![D1](https://github.com/AlexanderMasanov/alexandermasanov/blob/main/IMG_20230223_134029.jpg)
 ![D2](https://github.com/AlexanderMasanov/alexandermasanov/blob/main/IMG_20230223_133700.jpg)
 Так же постоянно черпаю новую информацию из различных бесплатных курсов, уроков и обучющих видео на ютуб :)
+![post](https://github.com/AlexanderMasanov/alexandermasanov/blob/main/postman.pdf)
 
 ## Опыт работы:
 
