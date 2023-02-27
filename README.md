@@ -53,6 +53,6 @@ Accessor тестировщик в Yandex(ANCOR) 3 месяца
 https://github.com/AlexanderMasanov/alexandermasanov/blob/main/itogovy_otchet.pdf
 
 Тестовое задание по кейсам
-https://github.com/AlexanderMasanov/alexandermasanov/blob/main/test_case.docx
+https://github.com/AlexanderMasanov/alexandermasanov/blob/main/test_case.pdf
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandermasanov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
