@@ -69,6 +69,7 @@ Figma, JMeter, PICT, MindMap
 ## Опыт работы:
 
 Accessor тестировщик в Yandex(ANCOR) 3 месяца.
+
 Осуществлял тестирование продуктов Яндекса по тест-кейсам, при обнаружении дефектов заводил баг-репорты.
 
 ## Портфолио:
@@ -76,10 +77,10 @@ Accessor тестировщик в Yandex(ANCOR) 3 месяца.
 Итоговый аттестационный проект "РАЗРАБОТКА СТРАТЕГИИ ТЕСТИРОВАНИЯ ВЕБ-ПРИЛОЖЕНИЯ САЙТ ДНС"
 https://github.com/AlexanderMasanov/alexandermasanov/blob/main/itogovy_otchet.pdf
 
-Test case
+Test case:
 https://github.com/AlexanderMasanov/alexandermasanov/blob/main/test_case.pdf
 
-Postman
+Postman:
 https://github.com/AlexanderMasanov/alexandermasanov/blob/main/postman.pdf
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandermasanov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
