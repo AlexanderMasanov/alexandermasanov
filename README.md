@@ -74,13 +74,16 @@ Accessor тестировщик в Yandex(ANCOR) 3 месяца.
 
 ## Портфолио:
 
-Итоговый аттестационный проект "РАЗРАБОТКА СТРАТЕГИИ ТЕСТИРОВАНИЯ ВЕБ-ПРИЛОЖЕНИЯ САЙТ ДНС"
+Итоговый аттестационный проект "РАЗРАБОТКА СТРАТЕГИИ ТЕСТИРОВАНИЯ ВЕБ-ПРИЛОЖЕНИЯ САЙТ ДНС":
 https://github.com/AlexanderMasanov/alexandermasanov/blob/main/itogovy_otchet.pdf
 
-Test case:
+Bug report для Panda:
+https://github.com/AlexanderMasanov/alexandermasanov/blob/main/bug%20report.pdf
+
+Test case для яндекс.транслита:
 https://github.com/AlexanderMasanov/alexandermasanov/blob/main/test_case.pdf
 
-Postman:
+Postman сертификат:
 https://github.com/AlexanderMasanov/alexandermasanov/blob/main/postman.pdf
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandermasanov&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
