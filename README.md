@@ -83,6 +83,9 @@ https://github.com/AlexanderMasanov/alexandermasanov/blob/main/bug%20report.pdf
 Test case для яндекс.транслита:
 https://github.com/AlexanderMasanov/alexandermasanov/blob/main/test_case.pdf
 
+Тестовое задание для Сибвез:
+https://github.com/AlexanderMasanov/alexandermasanov/blob/main/Test_zadanie.pdf
+
 Postman сертификат:
 https://github.com/AlexanderMasanov/alexandermasanov/blob/main/postman.pdf
 
