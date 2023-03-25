@@ -86,6 +86,9 @@ https://github.com/AlexanderMasanov/alexandermasanov/blob/main/test_case.pdf
 Тестовое задание для Сибвез:
 https://github.com/AlexanderMasanov/alexandermasanov/blob/main/Test_zadanie.pdf
 
+Тестовое задание для ЦФТ:
+https://github.com/AlexanderMasanov/alexandermasanov/blob/main/Test_zadanie_CFT.pdf
+
 Postman сертификат:
 https://github.com/AlexanderMasanov/alexandermasanov/blob/main/postman.pdf
 
